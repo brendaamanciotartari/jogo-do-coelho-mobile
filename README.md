@@ -1,1 +1,1 @@
-# jogo-do-coelho-mobile
+# jogo-do-coelho
